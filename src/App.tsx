@@ -115,7 +115,7 @@ export default function App() {
       {
         title: 'Diwali Celebration',
         category: 'Festivals',
-        imageURL: 'https://images.unsplash.com/photo-1605130284535-11dd9eedc58a?auto=format&fit=crop&w=1080&h=1350',
+        imageURL: 'https://res.cloudinary.com/dnwty33c3/image/upload/v1773952992/Diwali_Template_wsigyy.png',
         placeholders: [
           { type: 'image', x: 700, y: 900, width: 300, height: 400, label: 'Your Photo', key: 'userPhoto' },
           { type: 'text', x: 50, y: 1100, width: 600, height: 50, fontSize: 48, color: '#FFFFFF', label: 'Your Name', key: 'name' },
