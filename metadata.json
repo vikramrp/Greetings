@@ -1,0 +1,7 @@
+{
+  "name": "Greetings ",
+  "description": "Create professional festival and political posters in seconds with AI-powered background removal and custom templates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
